@@ -55,9 +55,9 @@ text-transform: uppercase;
 	width: 100%;
 }
 .Profile-Image{
-	width: 30%;
+	width: 20%;
 	position: absolute;
-	top: 40%;
+	top: 50%;
 	left: 50%;
 	transform: translate(25%, -40%);
 }
